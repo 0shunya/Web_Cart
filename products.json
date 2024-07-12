@@ -1,0 +1,47 @@
+[
+    {
+        "Id": 1,
+        "Name": "Shoes",
+        "Price": 199,
+        "Description": "Nike Shoes",
+        "Size": "Large",
+        "Color": "White",
+        "UPI ID": "sjs2805@ybl"
+    },
+    {
+        "Id": 2,
+        "Name": "Mat",
+        "Price": 200,
+        "Description": "Door Mat",
+        "Size": "Medium",
+        "Color": "Blue",
+        "UPI ID": "sjs2805@ybl"
+    },
+    {
+        "Id": 3,
+        "Name": "Watch",
+        "Price": 300,
+        "Description": "Smart Watch",
+        "Size": "Small",
+        "Color": "Black",
+        "UPI ID": "sjs2805@ybl"
+    },
+    {
+        "Id": 4,
+        "Name": "Hat",
+        "Price": 25,
+        "Description": "Pirate Hat",
+        "Size": "Big",
+        "Color": "Brown",
+        "UPI ID": "sjs2805@ybl"
+    },
+    {
+        "Id": 5,
+        "Name": "Goggles",
+        "Price": 120,
+        "Description": "Summer goggles",
+        "Size": "Small",
+        "Color": "Black",
+        "UPI ID": "sjs2805@ybl"
+    }
+]

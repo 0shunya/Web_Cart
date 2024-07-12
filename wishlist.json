@@ -1,0 +1,24 @@
+[
+    {
+        "email": "shloksingh@gmail.com",
+        "items": [
+            {
+                "Id": 2,
+                "Name": "Mat",
+                "Price": 200,
+                "Description": "Door Mat"
+            }
+        ]
+    },
+    {
+        "email": "shaneclark123rt@gmail.com",
+        "items": [
+            {
+                "Id": 4,
+                "Name": "Hat",
+                "Price": 25,
+                "Description": "Pirate Hat"
+            }
+        ]
+    }
+]

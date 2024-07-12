@@ -1,0 +1,17 @@
+[
+    {
+        "email": "shloksingh@gmail.com",
+        "items": [
+            {
+                "Id": 1,
+                "Name": "Shoes",
+                "Price": 199,
+                "Description": "Nike Shoes"
+            }
+        ]
+    },
+    {
+        "email": "shaneclark123rt@gmail.com",
+        "items": []
+    }
+]
